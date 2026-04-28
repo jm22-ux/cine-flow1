@@ -1,0 +1,6 @@
+{
+  "name": "CineFlow",
+  "description": "A premium cinematic movie catalog and streaming dashboard featuring immersive dark design, real-time search, and watchlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Movie Database", "Watchlist Persistence", "Advanced Filtering", "Responsive Design"]
+}
